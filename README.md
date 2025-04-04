@@ -55,7 +55,7 @@ Data,Categoria,Descricao,Valor
 ## 📈 Gráficos Gerados
 
 ### 📌 Distribuição por Categoria
-![Gráfico de Pizza](imagens/grafico_despesas_categoria.png)
+![Gráfico de Pizza](imagens/grafico_categoria.png)
 
 ### 📌 Gastos por Mês
 ![Gráfico de Barras](imagens/gastos_mensais.png)
