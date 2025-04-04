@@ -35,7 +35,7 @@ analise-despesas-pessoais/
 git clone https://github.com/juhcavole/analise-despesas-pessoais.git
 cd analise-despesas-pessoais
 python -m venv venv
-.env\Scriptsctivate
+.venv\Scripts\activate
 pip install -r requirements.txt
 python src/main.py
 ```
